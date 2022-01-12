@@ -6,7 +6,7 @@ import Cloudflare from "cloudflare";
 
 const BuildDirectory = "./build/";
 
-const Deployment = "yearn-meta";
+const Deployment = "ybomb-meta";
 const Domain = "meta.yearn.network";
 const DNSLinkDomain = `_dnslink.${Domain}`;
 

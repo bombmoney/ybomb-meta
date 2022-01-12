@@ -1,9 +1,9 @@
 {
-  "name": "yearn-meta",
+  "name": "@bombmoney/ybomb-meta",
   "main": "index.js",
   "author": "nymmrx",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ethersproject/address": "^5.0.9",
     "@pinata/sdk": "^1.1.11",
@@ -23,5 +23,6 @@
   },
   "devDependencies": {
     "prettier": "2.5.1"
-  }
+  },
+  "version": "1.0.0"
 }

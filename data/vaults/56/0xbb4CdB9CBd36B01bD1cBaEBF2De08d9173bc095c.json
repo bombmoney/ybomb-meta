@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "comment": "WBNB",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 0,
+  "migrationAvailable": false,
+  "allowZapIn": false,
+  "allowZapOut": false,
+  "retired": false,
+  "displayName": "WBNB"
+}
